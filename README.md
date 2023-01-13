@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yann Kamche
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Frontend (HTML, CSS, Javascript)
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me yannkamche@gmail.com
 
 <!---
