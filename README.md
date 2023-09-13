@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Frontend (HTML, CSS, Javascript)
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me yannkamche@gmail.com
-- ![Profile Views](https://img.shields.io/endpoint?url=https://profile-counter.glitch.me/{YannKamche}/count.svg)
 
 
 <!---
