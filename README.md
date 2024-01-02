@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yann Kamche, a self-taught Web Developer
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend (HTML, CSS, Javascript, ReactJs)
+- 🌱 I’m currently learning Frontend (HTML, CSS, Javascript, ReactJs, NextJs)
+- 😉 Continuous Learner
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me yannkamche@gmail.com
 
