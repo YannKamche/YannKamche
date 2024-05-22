@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Yann Kamche, a self-taught Web Developer
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend (ReactJs, NextJs, React Native and ThreeJs)
+- 👋 Hi, I’m Yann Kamche, a seasoned Web and Mobile Developer (ReactJs, NextJs, Native)
 - 😉 Continuous Learner
-- 💞️ I’m looking to collaborate on web dev projects
+- 💞️ I’m looking to collaborate on dev projects
 - 📫 How to reach me yannkamche@gmail.com
 
 
